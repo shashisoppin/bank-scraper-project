@@ -57,7 +57,7 @@ bank-scraper-project/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bank-scraper-project.git
+git clone https://github.com/shashisoppin/bank-scraper-project.git
 ```
 
 **2. Navigate to the project directory**
